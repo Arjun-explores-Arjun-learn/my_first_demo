@@ -1,0 +1,7 @@
+1...in window to check the hidden files need to use ls -force
+2...cd means change directory this will let us to move form outer folder to inner folder
+3...ls will show u the lists of the files u have
+4...form github to ur system we use clone command git clone <link paste from github
+
+5...if we modify the file in vs this will make it yellow to show u have made some change
+M-modified, U- untracked,A- changes r added( this will change U to A), staged when u r ready to commit(add some meaningful line in it)
