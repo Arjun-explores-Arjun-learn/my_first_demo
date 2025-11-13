@@ -6,3 +6,5 @@
 5...if we modify the file in vs this will make it yellow to show u have made some change
 M-modified, U- untracked,A- changes r added( this will change U to A), staged when u r ready to commit(add some meaningful line in it)
 push command which pushed the code we made or edit in vs to out github (from local to remote)
+6...to make a new file or folder init command is used (git init)
+7... whenever it gets chaotic use clear command
